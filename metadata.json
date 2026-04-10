@@ -1,0 +1,5 @@
+{
+  "name": "App Launcher Dashboard",
+  "description": "A dashboard to one-click start and manage local Docker and Conda applications.",
+  "requestFramePermissions": []
+}
